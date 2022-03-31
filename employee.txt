@@ -1,0 +1,5 @@
+1001 Jim Halper 45 34 2
+1002 Bob Dylan 45 16 2
+1003 Dwight Schrute 56 19 13
+1004 Alan West 45 23.5 12
+1005 Michael Scott 38 36 6
